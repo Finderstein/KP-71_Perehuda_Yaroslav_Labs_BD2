@@ -1,0 +1,52 @@
+INFO:root:2020-05-17 21:30:09.478786: Log in: Log in failure. "sdfgsdfg" does not exist
+
+INFO:root:2020-05-17 21:30:24.690688: Log in: Log in failure. "test1" does not exist
+
+INFO:root:2020-05-17 21:30:28.879731: Registration: Registration successful. "test1" registered
+
+INFO:root:2020-05-17 21:30:31.207807: Log in: Log in successful. "test1" logged in
+
+INFO:root:2020-05-17 21:30:39.220120: Log out: Log out successful. "test1" logged in
+
+INFO:root:2020-05-17 21:30:46.264133: Registration: Registration successful. "test2" registered
+
+INFO:root:2020-05-17 21:30:53.433223: Log in: Log in successful. "test2" logged in
+
+INFO:root:2020-05-17 21:31:12.467532: Spam check: user "test2" sent spam message: "sfgsdfg"
+
+INFO:root:2020-05-17 21:31:16.621237: Spam check: user "test2" sent spam message: "dsfgdsfg"
+
+INFO:root:2020-05-17 21:31:28.695424: Log out: Log out successful. "test2" logged in
+
+INFO:root:2020-05-17 21:31:31.386469: Log in: Log in successful. "test2" logged in
+
+INFO:root:2020-05-17 21:31:44.276631: Log out: Log out successful. "test2" logged in
+
+INFO:root:2020-05-17 21:31:47.264918: Log in: Log in successful. "test1" logged in
+
+INFO:root:2020-05-17 21:31:57.585699: Log out: Log out successful. "test1" logged in
+
+INFO:root:2020-05-17 21:54:57.595538: Log in: Log in successful. "test1" logged in
+
+INFO:root:2020-05-17 21:58:20.876504: Registration: Registration failure. Username "test1" already exists
+
+INFO:root:2020-05-17 21:58:26.157791: Log in: Log in failure. "sdfgdsfg" does not exist
+
+INFO:root:2020-05-17 21:58:37.437144: Registration: Registration successful. "test3" registered
+
+INFO:root:2020-05-17 21:58:43.367440: Log in: Log in successful. "test3" logged in
+
+INFO:root:2020-05-17 21:59:45.875493: Log out: Log out successful. "test3" logged in
+
+INFO:root:2020-05-17 22:00:15.837320: Log in: Log in successful. "test2" logged in
+
+INFO:root:2020-05-17 22:00:23.829548: Log out: Log out successful. "test2" logged in
+
+INFO:root:2020-05-17 22:00:26.679414: Log in: Log in successful. "test1" logged in
+
+INFO:root:2020-05-17 22:00:54.547863: Log out: Log out successful. "test1" logged in
+
+INFO:root:2020-05-17 22:01:20.592353: Log in: Log in successful. "test1" logged in
+
+INFO:root:2020-05-17 22:02:52.959776: Log out: Log out successful. "test1" logged in
+
